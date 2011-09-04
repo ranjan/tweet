@@ -1,0 +1,7 @@
+# To run test do rake core
+
+# To run program use commnad line ruby
+
+ruby tweet.rb rails
+
+#Above 'rails' is a hashtag
